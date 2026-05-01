@@ -1,3 +1,9 @@
+"""
+Snake Game Module
+This module handles the Pygame initialization, snake movement logic, 
+collision detection, and score tracking.
+"""
+
 import random
 import sys
 
